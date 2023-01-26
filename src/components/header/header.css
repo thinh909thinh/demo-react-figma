@@ -1,0 +1,12 @@
+.list-menu {
+    flex-direction: column;
+}
+.css-q12r5y {
+    padding: 20px 23px !important;
+}
+.menu-list-items:hover {
+    background-color: transparent !important;
+}
+.menu-list-items a:hover {
+    color: #414880 !important;
+}

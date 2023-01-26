@@ -1,0 +1,51 @@
+/* .services-slogan{
+  background-image: url("assets/images/services/BG-Mask.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 100;
+} */
+/* .services-slogan-background{
+  height: 100%;
+  background: rgba(9, 17, 86, 0.6);
+    position: absolute;
+    left: 0;
+    right: 0;
+} */
+/* .services-slogan-treatments-video{
+  font-size: 16px !important;
+} */
+/* .services-slogan-icon-play svg {
+    font-size: 150px !important;
+} */
+/* .services-slogan-icon-play {
+    cursor: pointer;
+    width: 23%;
+} */
+/* .popPupVideo {
+    z-index: 10;
+    width: 600px;
+    position: fixed;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+} */
+/* .popPupVideo img {
+    width: 100%;
+    height: 100%;
+} */
+/* .popPupVideoClose {
+    cursor: pointer;
+    position: absolute;
+    color: white;
+    top: 0;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background-color: red;
+} */

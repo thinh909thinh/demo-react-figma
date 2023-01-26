@@ -1,0 +1,22 @@
+/* .landing-page-about {
+  display: flex;
+  justify-content: space-between;
+} */
+/* .background-image-vision {
+    position: absolute;
+    width: 100%;
+    max-height: 1100px;
+    left: 0;
+    z-index: -1;
+} */
+.get-the-services-wrapper :hover {
+    /* color: #ff64ae !important; */
+}
+/* .get-the-services {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+} */
+/* .get-the-services svg {
+    color: #ff64ae;
+} */

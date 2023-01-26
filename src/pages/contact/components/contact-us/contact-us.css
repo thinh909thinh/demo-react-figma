@@ -1,0 +1,6 @@
+/* .css-pfb3sw-MuiInputBase-root-MuiOutlinedInput-root {
+    border-radius: 15px !important;
+} */
+textarea {
+    outline: none;
+}

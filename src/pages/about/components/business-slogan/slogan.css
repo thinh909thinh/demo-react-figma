@@ -1,0 +1,27 @@
+/* .slogan {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+} */
+
+.businessslogan {
+    /* background-image: url('assets/images/about/Backgroundmask.png'); */
+    /* background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 0;
+    right: 0; */
+}
+/* .background-mask {
+    height: 100%;
+    background: rgba(9, 17, 86, 0.6);
+    position: absolute;
+    left: 0;
+    right: 0;
+} */
+/* @media (max-width: 750px) {
+    .slogan {
+        position: relative;
+    }
+} */

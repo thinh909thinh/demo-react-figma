@@ -1,0 +1,42 @@
+/* .professional-container {
+    display: flex;
+    width: 100%;
+} */
+/* .professional-teams {
+    background-color: #ffffff00;
+    box-shadow: 0px 0px 0px 0px rgb(255 255 255 / 0%);
+    padding: 91px 60px 94px 60px;
+    border-radius: 42px 42px 42px 42px;
+} */
+/* .professional-teams-active {
+    background-color: #fff;
+    box-shadow: 0px 25px 50px 25px #f6f7ff;
+} */
+
+/* .profile-footer {
+    width: 100%;
+    padding: 0 77px 0 77px;
+    display: flex;
+} */
+/* .profile-footer img {
+    max-width: none !important;
+}
+.profile-footer ul {
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.profile-footer li {
+    display: flex;
+    justify-content: center;
+    /* background-color: yellow; */
+/* }  */
+
+.background-image-about {
+    /* position: absolute;
+    right: 0;
+    z-index: -1; */
+    /* background-image: url(https://wordpress.altdesain.com/beautice/beautyclinic/wp-content/uploads/2021/11/BG-3.png); */
+}
